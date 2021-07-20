@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agora_app_id" translatable="false">0198d494ace8458f833a93839c91119c</string>
+
+    <!--云信令Token-->
+    <string name="agora_rtm_app_token" translatable="false">
+
+        <!--6191-->
+        0060198d494ace8458f833a93839c91119cIAAb4Kw//1pNEwUGiUY/4/BrT9Wxe7hh1E+MoGu6I+WaQ0Z6944AAAAAEACxzzpD5Xn3YAEA6APlefdg
+
+        <!--6292-->
+        <!-- 0060198d494ace8458f833a93839c91119cIAAXLxYiYGOvVDIvZE5FxtOq1E7e4/HtX0hiq5Bj4AzMrqWVuBUAAAAAEACxzzpD+nn3YAEA6AP6efdg -->
+
+    </string>
+
+
+</resources>
